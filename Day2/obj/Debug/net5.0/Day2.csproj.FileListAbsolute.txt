@@ -1,0 +1,16 @@
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\bin\Debug\net5.0\Day2.exe
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\bin\Debug\net5.0\Day2.deps.json
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\bin\Debug\net5.0\Day2.runtimeconfig.json
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\bin\Debug\net5.0\Day2.runtimeconfig.dev.json
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\bin\Debug\net5.0\Day2.dll
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\bin\Debug\net5.0\ref\Day2.dll
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\bin\Debug\net5.0\Day2.pdb
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\Day2.csprojAssemblyReference.cache
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\Day2.AssemblyInfoInputs.cache
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\Day2.AssemblyInfo.cs
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\Day2.csproj.CoreCompileInputs.cache
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\Day2.dll
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\ref\Day2.dll
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\Day2.pdb
+C:\Dev\AdventOfCode\Advent-Of-Code-2020\Day2\obj\Debug\net5.0\Day2.genruntimeconfig.cache
