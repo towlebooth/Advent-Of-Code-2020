@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
+using AoC;
 
 namespace Day4
 {
@@ -169,19 +170,6 @@ namespace Day4
             }
 
             return isValid;
-        }
-
-        public static bool IsLineEmpty(string line)
-        {
-            line = line.Trim();
-            if (line == "")
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
         }
 
         public static bool IsbyrValid(string byr)
